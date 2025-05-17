@@ -1,6 +1,6 @@
 # Hi, I'm Sarit 👋
 
-Self-taught full-stack developer with a passion for building sleek, real-world apps using the MERN stack. I'm currently working on projects to land remote roles and level up toward my goal: building a $1M/month business or a $300M fund.
+Self-taught full-stack developer with a passion for building sleek, real-world apps using the MERN stack. On a journey of continuous learning and building awesome products.
 
 ---
 
@@ -8,17 +8,19 @@ Self-taught full-stack developer with a passion for building sleek, real-world a
 **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React  
 **Backend**: Node.js, Express  
 **Database**: MongoDB (Mongoose)  
-**Tools**: Git, GitHub, JWT, bcrypt, Socket.io, Axios, Stripe API, dotenv
+**Tools**: Git, GitHub, JWT, bcrypt, Socket.io, Axios, Stripe API, dotenv, react-toastify, clerk
 
 ---
 
-## 🚀 Current Project
-### 🧑‍💼 Freelance Marketplace
-A MERN-based platform for clients & freelancers. Features:
-- Secure login/signup (JWT, bcrypt)
-- Real-time messaging (Socket.io)
-- Stripe payment integration
-- Clean UI with Tailwind
+## 🚀 Current Project:
+### 🧑‍💼 Freelance Marketplace (MERN)
+A MERN-based platform for clients & freelancers. 
+Features:
+- 🔐 User Authentication (JWT + bcrypt)
+- 🧑‍🎨 Client & Freelancer Dashboards
+- 📝 Profile Setup and Editing
+- 🎨 Responsive UI built with Tailwind CSS
+- 📂 Job Posting & Browsing
 
 [🔗 View Repo](https://github.com/YOUR-USERNAME/freelance-marketplace)  
 [🌐 Live Demo](https://yourdemo.vercel.app)
@@ -33,5 +35,5 @@ A MERN-based platform for clients & freelancers. Features:
 ---
 
 ## 📫 Connect With Me
-- 🌍 Portfolio: [your-site.com]
 - 💼 LinkedIn: [linkedin.com/in/yourusername]
+- 🌍 Instagram: [your-site.com]

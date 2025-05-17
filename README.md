@@ -4,17 +4,23 @@ Self-taught full-stack developer with a passion for building sleek, real-world a
 
 ---
 
-## 🔧 Tech Stack
-**Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React  
-**Backend**: Node.js, Express  
-**Database**: MongoDB (Mongoose)  
-**Tools**: Git, GitHub, JWT, bcrypt, Socket.io, Axios, Stripe API, dotenv, react-toastify, clerk
+## ⚙️ Tech I Use
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🚀 Current Project:
 ### 🧑‍💼 Freelance Marketplace (MERN)
-A MERN-based platform for clients & freelancers. 
+A full-stack freelance marketplace built with the MERN stack.
 Features:
 - 🔐 User Authentication (JWT + bcrypt)
 - 🧑‍🎨 Client & Freelancer Dashboards
@@ -35,5 +41,11 @@ Features:
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [https://www.linkedin.com/in/sarit-bose]
-- 🌍 Instagram: [https://www.instagram.com/saritbosee/]
+- 💼 [LinkedIn](https://www.linkedin.com/in/sarit-bose)
+- 🌍 [Instagram](https://www.instagram.com/saritbosee/)
+
+---
+
+## 📊 GitHub Stats
+![Sarit’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=saritbose&show_icons=true&theme=radical)
+

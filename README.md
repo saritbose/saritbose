@@ -22,8 +22,8 @@ Features:
 - 🎨 Responsive UI built with Tailwind CSS
 - 📂 Job Posting & Browsing
 
-[🔗 View Repo](https://github.com/YOUR-USERNAME/freelance-marketplace)  
-[🌐 Live Demo](https://yourdemo.vercel.app)
+[🔗 View Repo](https://github.com/saritbose/Craftsy.git)  
+[🌐 Live Demo](https://craftsy.vercel.app/)
 
 ---
 
@@ -35,5 +35,5 @@ Features:
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [linkedin.com/in/yourusername]
-- 🌍 Instagram: [your-site.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/sarit-bose]
+- 🌍 Instagram: [https://www.instagram.com/saritbosee/]

@@ -25,7 +25,7 @@ Self-taught full-stack developer with a passion for building sleek, real-world a
 ---
 
 ## 🚀 Current Project:
-### 🧑‍💼 Freelance Marketplace (MERN)
+### 🧑‍💼 Freelance Marketplace – Craftsy (MERN)
 A full-stack freelance marketplace built with the MERN stack.
 Features:
 - 🔐 User Authentication (JWT + bcrypt)
@@ -36,6 +36,21 @@ Features:
 
 [🔗 View Repo](https://github.com/saritbose/Craftsy.git)  
 [🌐 Live Demo](https://craftsy.vercel.app/)
+
+
+### 📡 Uptime Monitor – UptimePulse (MERN)
+A full-stack uptime monitoring SaaS to track website health in real-time.  
+Features:
+- 🔐 Auth via Clerk
+- 📊 Real-time Pinging, Status Logs & Response Times
+- 💥 Detects “Up”, “Slow”, or “Down” states
+- 📧 Email Alerts for Downtime (via Nodemailer)
+- 💳 Stripe-powered Subscription System
+- 📈 Charts for Logs & Performance (ApexCharts)
+- 📦 CRUD for Monitors, Interval Logic, Plan Limits
+
+[🔗 View Repo](https://github.com/saritbose/UptimePulse.git)  
+[🌐 Live Demo](https://uptimepulse.vercel.app/)
 
 ---
 
